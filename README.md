@@ -4,9 +4,30 @@ ms22-attraction-and-trap-suppression
 
 ## Overview
 
-A manuscript being prepared for submission, describing experiments on 
-attraction of NOW to one- and two-component meso-dispensers in 2019 and 
-crop-destruction trap suppression experiments in 2016. 
+***The study***
+This manuscript describes experiments on attraction of NOW to one- and 
+two-component meso-dispensers in 2019 and crop-destruction trap suppression 
+experiments in 2016. 
+
+***Simple overview***
+The navel orangeworm is an important pest of high-value crops including almonds, 
+pistachios, and walnuts. Monitoring and mating disruption are important tools 
+for control of this moth, and improved understanding of its response to pheromone 
+composition and concentration has the potential to improve monitoring and 
+mating disruption. Experiments with high release rate passive diffusion pheromone 
+dispensers revealed that capture of males in pheromone traps was suppressed 
+more successfully at an intermediate rate of dispensers per acre when a second 
+pheromone component was included. Traps baited with part or all of the 
+single-compound meso-dispensers as bait were minimally attractive in the 
+absence of mating disruption, thereby confirming earlier research on the 
+mechanism of mating disruption for navel orangeworm. Traps baited with the 
+two-component meso-dispensers captured similar numbers of navel orangeworm in either 
+the presence or absence of mating disruption, indicating that this dispenser could 
+also be used to improve monitoring. This study provides scientists and extension 
+personnel with further insight into the mechanism of the current widely-used 
+mating disruption products for navel orangeworm, and indicates that the two-component 
+meso-dispensers could provide improvements in monitoring for navel orangeworm 
+compared to the presently-used products.
 
 ## Scripts
 
