@@ -1,4 +1,4 @@
-# Attraction, trap suppression by NOW mesos
+# Attraction and trap suppression by high-rate NOW dispensers with one or two components
 
 ***Repository*** github.com/ChuckBV/ms22-attraction-and-trap-suppression
 
