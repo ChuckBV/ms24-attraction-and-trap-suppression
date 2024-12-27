@@ -7,7 +7,11 @@
 ***The study***
 This manuscript describes experiments on attraction of NOW to one- and 
 two-component meso-dispensers in 2019 and crop-destruction trap suppression 
-experiments in 2016. 
+experiments in 2016. Supports the paper:
+
+Burks, C.S.; Higbee, B.S. Potential of an Attractive High-Rate Navel Orangeworm 
+(Lepidoptera: Pyralidae) Pheromone Dispenser for Mating Disruption or for 
+Monitoring. Insects 2024, 15, 884, doi:10.3390/insects15110884.
 
 ***Simple overview***
 The navel orangeworm is an important pest of high-value crops including almonds, 
